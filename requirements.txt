@@ -1,0 +1,11 @@
+streamlit
+smtplib3
+email-validator
+requests
+twilio
+tweepy
+python-facebook-api
+instagrapi
+pywhatkit
+linkedin-api
+pillow
